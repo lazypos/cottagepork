@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!------- 说明 ----------
+技能：id,名称,,可用次数,属性,描述
+攻击：伤害,命中率
+特效：id,持续次数,伤害,产生概率
+------------------------>
+<skill id="1" name="zhuangji" count="3" pro="0" desc="" >
+<attack val="20" prob="8" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="2" name="shuaiwei" count="3" pro="0" desc="" >
+<attack val="30" prob="9" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="3" name="huojiantouchui" count="1" pro="0" desc="" >
+<attack val="40" prob="9" />
+<property id="1" times="1" val="0" prob="5" />
+</skill>
+
+<skill id="4" name="jishengzhongzi" count="1" pro="1" desc="" >
+<attack val="" prob="" />
+<property id="8" times="5" val="10" prob="10" />
+<property id="9" times="5" val="10" prob="10" />
+</skill>
+
+<skill id="5" name="feiyekuaidao" count="1" pro="1" desc="" >
+<attack val="45" prob="10" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="6" name="yangguanglieyan" count="1" pro="1" desc="" >
+<attack val="200" prob="9" />
+<property id="11" times="1" val="0" prob="10" />
+</skill>
+
+<skill id="7" name="cuimianfen" count="1" pro="0" desc="" >
+<attack val="0" prob="0" />
+<property id="4" times="3" val="0" prob="6" />
+</skill>
+
+<skill id="8" name="mabifen" count="1" pro="0" desc="" >
+<attack val="0" prob="0" />
+<property id="2" times="99" val="0" prob="6" />
+</skill>
+
+<skill id="9" name="penshehuoyan" count="1" pro="2" desc="" >
+<attack val="60" prob="9" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="10" name="xiaohuoqiu" count="1" pro="2" desc="" >
+<attack val="40" prob="9" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="11" name="diqiushangtou" count="1" pro="0" desc="" >
+<attack val="80" prob="8" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="12" name="dazibao" count="1" pro="2" desc="" >
+<attack val="120" prob="6" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="13" name="penshui" count="1" pro="3" desc="" >
+<attack val="40" prob="9" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="14" name="shuiqiang" count="1" pro="3" desc="" >
+<attack val="80" prob="8" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="15" name="fangyu" count="1" pro="0" desc="" >
+<attack val="" prob="" />
+<property id="9" times="1" val="0" prob="10" />
+<property id="10" times="1" val="500" prob="10" />
+</skill>
+
+<skill id="16" name="gaoyashuipao" count="1" pro="0" desc="" >
+<attack val="100" prob="8" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="17" name="tusi" count="1" pro="0" desc="" >
+<attack val="" prob="" />
+<property id="1" times="2" val="0" prob="10" />
+</skill>
+
+<skill id="18" name="bianying" count="1" pro="0" desc="" >
+<attack val="" prob="" />
+<property id="12" times="1" val="30" prob="10" />
+</skill>
+
+<skill id="19" name="dufen" count="1" pro="0" desc="" >
+<attack val="" prob="" />
+<property id="3" times="99" val="15" prob="6" />
+</skill>
+
+<skill id="20" name="jufeng" count="1" pro="0" desc="" >
+<attack val="50" prob="10" />
+<property id="" times="" val="" prob="" />
+</skill>
+
+<skill id="21" name="hunluanfen" count="1" pro="0" desc="" >
+<attack val="" prob="" />
+<property id="8" times="4" val="0" prob="7" />
+</skill>
+
+<skill id="22" name="duzhen" count="1" pro="0" desc="" >
+<attack val="30" prob="9" />
+<property id="3" times="5" val="10" prob="4" />
+</skill>
+
+<skill id="23" name="duci" count="1" pro="0" desc="" >
+<attack val="40" prob="10" />
+<property id="3" times="99" val="15" prob="6" />
+</skill>
+
+<skill id="24" name="zhuiji" count="1" pro="0" desc="" >
+<attack val="50" prob="9" />
+<property id="10" times="1" val="300" prob="10" />
+</skill>
+
+<skill id="25" name="zhuiji" count="1" pro="0" desc="" >
+<attack val="50" prob="9" />
+<property id="" times="" val="" prob="" />
+</skill>

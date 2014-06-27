@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<skill>
+	<item id="1" name="yun" desc="" />
+	<item id="2" name="mabi" desc="" />
+	<item id="3" name="diaoxue" desc="" />
+	<item id="4" name="shuimian" desc="" />
+	<item id="5" name="budong" desc="" />
+	<item id="6" name="shaoshang" desc="" />
+	<item id="7" name="jianxue" desc="" />
+	<item id="8" name="hunluan" desc="" />
+	<item id="9" name="duobi" desc="" />
+	<item id="10" name="jiasu" desc="" />
+	<item id="11" name="xuli" desc="" />
+	<item id="12" name="shengfang" desc="" />
+</skill>
+
+<property>
+	<item id="0" name="putong" desc="" />
+	<item id="1" name="cao" desc="" />
+	<item id="2" name="huo" desc="" />
+	<item id="3" name="shui" desc="" />
+	<item id="4" name="yan" desc="" />
+	<item id="5" name="dou" desc="" />
+	<item id="6" name="du" desc="" />
+	<item id="7" name="feixing" desc="" />
+	<item id="8" name="bing" desc="" />
+	<item id="9" name="dimian" desc="" />
+	<item id="10" name="chao" desc="" />
+	<item id="11" name="chong" desc="" />
+	<item id="12" name="gui" desc="" />
+	<item id="13" name="e" desc="" />
+	<item id="14" name="long" desc="" />
+	<item id="15" name="gang" desc="" />
+	<item id="16" name="dian" desc="" />
+</property>
