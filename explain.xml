@@ -33,3 +33,9 @@
 	<item id="15" name="gang" desc="" />
 	<item id="16" name="dian" desc="" />
 </property>
+
+<grams>
+	<item val="1" desc="">
+	<item val="2" desc="">
+	<item val="3" desc="">
+</grams>
